@@ -1,0 +1,17 @@
+.hello {
+  color: royalblue;
+}
+
+.itemOrder {
+  margin-bottom: 20px;
+}
+
+.orderStatus {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 50px;
+}
